@@ -1,4 +1,4 @@
-Shambhuraje
+**Shambhu Kokate**
 
 🎯 Aspiring Data Scientist  
 💻 Python | Django | NumPy | Pandas  
