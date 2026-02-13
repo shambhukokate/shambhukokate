@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shambhu Kokate
+Shambhuraje
 
 🎯 Aspiring Data Scientist  
 💻 Python | Django | NumPy | Pandas  
