@@ -84,7 +84,7 @@ Computer Science & Engineering
 
 ## Contact
 
-📧 yourmail@gmail.com
+📧 shambhukokate28@gmail.com
 
 💼 linkedin.com/in/shambhukokate
 
